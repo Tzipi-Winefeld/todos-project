@@ -24,11 +24,11 @@ builder.Services.AddCors(option => option.AddPolicy("AllowAll",
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 
 app.MapGet("/", async (ToDoDbContext context) =>
 {
