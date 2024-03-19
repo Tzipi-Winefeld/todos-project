@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rTfTU1kz+bwAKfezK8e7fY8VuObYIxRPFaA9JPSvPEZRqss3ZcPIv5K+jBnV8mrUKb+b90MT9FVjiMwL6Tqe5w==",
+  "dgSpecHash": "511F2i0yzfI8jactHYeCUkvBfOrmGfcJaQHADREi9qc0yIvNEWW7qNrkAVvJsRpOVnLvfw4nj+ACdGvTIRI0gw==",
   "success": true,
   "projectFilePath": "D:\\פרקטיקוד\\פרקטיקוד4\\project-4\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
@@ -35,7 +35,11 @@
     "C:\\Users\\The user\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\The user\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\The user\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
   ],
   "logs": [
     {
