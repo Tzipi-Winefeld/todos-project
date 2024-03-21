@@ -89,3 +89,5 @@ D:\פרקטיקוד\פרקטיקוד4\project-4\TodoApi\obj\Debug\net7.0\refint\
 D:\פרקטיקוד\פרקטיקוד4\project-4\TodoApi\obj\Debug\net7.0\TodoApi.pdb
 D:\פרקטיקוד\פרקטיקוד4\project-4\TodoApi\obj\Debug\net7.0\TodoApi.genruntimeconfig.cache
 D:\פרקטיקוד\פרקטיקוד4\project-4\TodoApi\obj\Debug\net7.0\ref\TodoApi.dll
+D:\פרקטיקוד\פרקטיקוד4\project-4\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\פרקטיקוד\פרקטיקוד4\project-4\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
