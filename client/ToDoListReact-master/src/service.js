@@ -1,8 +1,10 @@
 //import axios from 'axios';
 import axios from './axiosConfig.ts';
 
-axios.defaults.baseURL = process.env.REACT_APP_VARIABLE_NAME
+// axios.defaults.baseURL = process.env.REACT_APP_VARIABLE_NAME
 // "https://localhost:7192"
+axios.defaults.baseURL = "http://localhost:5231"
+
 
 export default {
   getTasks: async () => {

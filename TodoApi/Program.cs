@@ -74,7 +74,9 @@ app.MapPut("/{id}/{isComplete}", async (ToDoDbContext context,int id,bool isComp
     return Results.Ok(data);
 });
 
-// app.MapGet("/hello", () => "todos-project-server is running!!");
+app.MapGet("/hello", () => "todos-project-server is running!!");
+
+// dotnet add package Microsoft.AspNet.Core --version 7.0.0
 
 app.UseCors("AllowAll");
 
